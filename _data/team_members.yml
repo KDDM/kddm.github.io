@@ -16,9 +16,17 @@
   education3: B.S. 
 
 - name: Shahariar Rabby
-  photo: rabby.png
+  photo: rabby.jpg
   info: PhD Student, started Sep 2021
   email: arabby@uab.edu
+  number_educ: 2
+  education1: PhD Student, Computer Scince, Univeristy of Alabama at Birmingham
+  education2: BSc, Computer Science & Engineering, Daffodil International University
+
+- name: Pratim Saha
+  photo: psaha.jpg
+  info: PhD Student, started Sep 2021
+  email: psaha@uab.edu
   number_educ: 2
   education1: PhD Student, Computer Scince, Univeristy of Alabama at Birmingham
   education2: BSc, Computer Science & Engineering, Daffodil International University
@@ -26,7 +34,7 @@
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  email: none@gmail.com
   number_educ: 0
   education1:
   education2:

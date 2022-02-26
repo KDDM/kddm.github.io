@@ -5,9 +5,11 @@ excerpt: "Knowledge Discovery and Data Mining Research (KDDM) Lab."
 sitemap: false
 permalink: /
 ---
+<p  text-align: justify;
+  text-justify: inter-word;>
 
 During Fall 2004, the Knowledge Discovery and Data Mining Research Lab (KDDM) at CIS UAB, led by Dr. Alan Sprague and Dr. Chengcui Zhang, was established in  order  to support research of new algorithms, systems, and applications for large-scale data mining and visualization. The research combines development of pattern matching algorithms, tatistical techniques, distributed database techniques, and visualization methods. It hosts faculty, students, and visiting scholars, conducting cross-disciplinary research as well as developing test beds.
-
+</p>
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
