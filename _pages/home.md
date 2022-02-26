@@ -1,13 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "KDDM Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Knowledge Discovery and Data Mining Research (KDDM) Lab."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
-
+During Fall 2004, the Knowledge Discovery and Data Mining Research Lab (KDDM) at CIS UAB, led by Dr. Alan Sprague and Dr. Chengcui Zhang, was established in  order  to support research of new algorithms, systems, and applications for large-scale data mining and visualization. The research combines development of pattern matching algorithms, tatistical techniques, distributed database techniques, and visualization methods. It hosts faculty, students, and visiting scholars, conducting cross-disciplinary research as well as developing test beds.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
