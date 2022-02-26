@@ -5,7 +5,7 @@ excerpt: "Knowledge Discovery and Data Mining Research (KDDM) Lab."
 sitemap: false
 permalink: /
 ---
-<div markdown="0" align="justify/left/right/center">
+<div markdown="0" class="justify">
 
 During Fall 2004, the Knowledge Discovery and Data Mining Research Lab (KDDM) at CIS UAB, led by Dr. Alan Sprague and Dr. Chengcui Zhang, was established in  order  to support research of new algorithms, systems, and applications for large-scale data mining and visualization. The research combines development of pattern matching algorithms, tatistical techniques, distributed database techniques, and visualization methods. It hosts faculty, students, and visiting scholars, conducting cross-disciplinary research as well as developing test beds.
 </div >
@@ -70,9 +70,9 @@ Our current research activities focus on the following areas:
 
 </div>
 
-
+<div markdown="0" class="justify">
 We  have applied  research to several  domains, with close  collaboration  with  cyber-security specialists, colleagues in Physical Medicine & Rehabilitation, Bio-statistics, and Government, as well as with industrial collaborators such as IBM and eBay. The methods and tools have so far been  applied  to healthcare   applications, traffic surveillance applications, image analysis and retrieval (e.g., canonical view extraction, object-based image retrieval, and image spam mining), the identification of  events of   interest for sports videos, bio-medical image/video  mining (e.g., histological image analysis for  skin cancer screening), and  email spam and  phishing  kit data mining. More recently, our research  areas have been expanded to include social science applications and biomedical text mining. Some highlight systems include analysis of organizational patterns of lobbying activities and automatic extraction of gene co-expression hypotheses from published biomedical literature. Our research is currently supported by NSF and NIH.
-
+</div>
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uab.png" style="width: 210px">
