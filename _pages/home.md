@@ -5,7 +5,7 @@ excerpt: "Knowledge Discovery and Data Mining Research (KDDM) Lab."
 sitemap: false
 permalink: /
 ---
-<div text-align: justify; text-justify: inter-word;  markdown="0" >
+<div markdown="0" text-align: justify; text-justify: inter-word;   >
 
 During Fall 2004, the Knowledge Discovery and Data Mining Research Lab (KDDM) at CIS UAB, led by Dr. Alan Sprague and Dr. Chengcui Zhang, was established in  order  to support research of new algorithms, systems, and applications for large-scale data mining and visualization. The research combines development of pattern matching algorithms, tatistical techniques, distributed database techniques, and visualization methods. It hosts faculty, students, and visiting scholars, conducting cross-disciplinary research as well as developing test beds.
 </div >
@@ -65,14 +65,11 @@ Our current research activities focus on the following areas:
 <li>Computer Forensics (e.g., spam and phishing data mining)</li>
 </ul>
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+</div>
 
 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We  have applied  research to several  domains, with close  collaboration  with  cyber-security specialists, colleagues in Physical Medicine & Rehabilitation, Bio-statistics, and Government, as well as with industrial collaborators such as IBM and eBay. The methods and tools have so far been  applied  to healthcare   applications, traffic surveillance applications, image analysis and retrieval (e.g., canonical view extraction, object-based image retrieval, and image spam mining), the identification of  events of   interest for sports videos, bio-medical image/video  mining (e.g., histological image analysis for  skin cancer screening), and  email spam and  phishing  kit data mining. More recently, our research  areas have been expanded to include social science applications and biomedical text mining. Some highlight systems include analysis of organizational patterns of lobbying activities and automatic extraction of gene co-expression hypotheses from published biomedical literature. Our research is currently supported by NSF and NIH.
+
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
