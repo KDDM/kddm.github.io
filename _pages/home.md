@@ -52,8 +52,18 @@ During Fall 2004, the Knowledge Discovery and Data Mining Research Lab (KDDM) at
   </a>
 </div>
 
-
-
+ <div markdown="0">
+Our current research activities focus on the following areas:
+<ul>
+<li>Event sequence data mining</li>
+<li>Multimedia data mining, in particular images and videos</li>
+<li>Spatio-temporal data mining (e.g., traffic surveillance data)</li>
+<li>Meta-learning for model selection and combination</li>
+<li>Incremental learning, i.e., adapting to new data without retraining</li>
+<li>Distributed data mining for large scale scientific data using grid computing</li>
+<li>Data mining for Biomedical Informatics</li>
+<li>Computer Forensics (e.g., spam and phishing data mining)</li>
+</ul>
 
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
