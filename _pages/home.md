@@ -42,7 +42,7 @@ During Fall 2004, the Knowledge Discovery and Data Mining Research Lab (KDDM) at
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_0630.jpg" alt="Slide 6" />
         </div>
                  <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_0331.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_0028.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
