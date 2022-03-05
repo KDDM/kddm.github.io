@@ -33,16 +33,19 @@ During Fall 2004, the Knowledge Discovery and Data Mining Research Lab (KDDM) at
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_0018.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_1096.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_1967.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_0022.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_1096.jpg" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_0022.jpg" alt="Slide 6" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_0630.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_0630.jpg" alt="Slide 7" />
         </div>
                  <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_0028.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_0028.jpg" alt="Slide 8" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
