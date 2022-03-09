@@ -1,28 +1,28 @@
-- name: Gijsbert Verdoes
+- name: Xiaoqing Lu
   photo: verdoes.jpg
-  duration: In the Allan Lab 2015 - 2018, now Project manager at the FMD
-  info: Fine mechanical engineer associated with the FMD working in our group
+  duration: In the KDDM Lab yyyy - yyyy, now abc at the abc
+  info: Visiting Professor
   email: verdoes@fmd.physics.leidenuniv.nl
   number_educ: 1
-  education1: Leidse instrumentmakers School
+  education1: ABC Uni
   education2:
   education3:
   education4:
 
-- name: Irene Battisti
+- name: Xinpeng Liao
   photo: irene.jpg
-  info: PhD student
-  duration: In the Allan Lab Jan 2015 to June 2019, now R&D scientist at Nearfield Instruments
-  email: Battisti@Physics.LeidenUniv.nl
+  info: PhD Student
+  duration: In the KDDM Lab yyyy - yyyy, now abc at the abc, now R&D scientist at Nearfield Instruments
+  email: test@test.uab
   number_educ: 3
   education1: Master Padova University
   education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-  education3: PhD Leiden University!
+  education3: PhD University of Alabama at Birmingham!
 
-- name: Doohee Cho
+- name: Ligaj Pradhan
   photo: Doohee2.jpg
-  info: Postdoc
-  duration: In the Allan Lab May 2017 to June 2019, now assistant professor at Yonsei University
+  info: PhD student
+  duration: In the KDDM Lab May 2017 to June 2019, Now Data Scientist at Equifax
   email: cho@physics.leidenuniv.nl
   number_educ: 4
   education1: B.S. Yonsei University, Korea
@@ -30,35 +30,96 @@
   education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
   education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
 
-- name: Maarten Leeuwenhoek
+- name: Song Gao
   photo: Maarten.png
-  info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
+  info: PhD Student, 
   email: M.Leeuwenhoek@tudelft.nl
-  duration: In the Allan Lab December 2015 to February 2020, now design engineer at ASML
+  duration: In the KDDM Lab December 2015 to February 2020, now Software Engineer at Google
   number_educ: 1
   education1: Master Leiden University with Milan Allan
   education2:
   education3:
   education4:
 
-- name: Freek Groenewoud
+- name: Jason Britt
   photo: Freek.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
+  info: PhD Student
   email: Groenewoud@physics.leidenuniv.nl
   number_educ: 2
-  duration: In the Allan Lab 2018 - 2020
+  duration: In the KDDM Lab 2018 - 2020, Currently Assistant Professor at Virginia State University
   education1: Leidse Instrumentmaker School
   education2: Mechanical Engineer , Hogeschool  Delft
   education3:
   education4:
 
-- name: Damianos Chatzopoulos
+- name: Lin Yang
   photo: Damianos.jpg
   info: PhD Student, started December 2017
-  duration: In the Allan Lab Dec 2017 - Dec 2021, now at Rabobank
+  duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Co-Founder at Deepmap Inc
   email: chatzopoulos@Physics.LeidenUniv.nl
   number_educ: 2
   education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
   education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
   education3:
 
+
+- name: Ying Liu
+  photo: Damianos.jpg
+  info: PhD Student, started December 2017
+  duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Senior Data Scientist at The Advisory Board Company
+  email: chatzopoulos@Physics.LeidenUniv.nl
+  number_educ: 2
+  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
+  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education3:
+
+- name: Xin Chen
+  photo: Damianos.jpg
+  info: PhD Student, started December 2017
+  duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Assistant Professor at Governors State University
+  email: chatzopoulos@Physics.LeidenUniv.nl
+  number_educ: 2
+  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
+  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education3:
+
+- name: Pradip Chitrakar
+  photo: Damianos.jpg
+  info: MSc Student, started December 2017
+  duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Associate Software Engineer at Priceline
+  email: chatzopoulos@Physics.LeidenUniv.nl
+  number_educ: 2
+  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
+  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education3:
+
+
+- name: Rajan Kumar Kharel
+  photo: Damianos.jpg
+  info: MSc Student, started December 2017
+  duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Senior Software Engineer at BD
+  email: chatzopoulos@Physics.LeidenUniv.nl
+  number_educ: 2
+  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
+  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education3:
+
+- name: Niju Shrestha
+  photo: Damianos.jpg
+  info: MSc Student, started December 2017
+  duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Senior Software Engineer at IHS Markit
+  email: chatzopoulos@Physics.LeidenUniv.nl
+  number_educ: 2
+  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
+  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education3:
+
+- name: Liping Zhou
+  photo: Damianos.jpg
+  info: MSc Student, started December 2017
+  duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Software Engineer at Amazon
+  email: chatzopoulos@Physics.LeidenUniv.nl
+  number_educ: 2
+  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
+  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education3:

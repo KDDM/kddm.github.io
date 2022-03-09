@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "KDDM Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "KDDM Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -144,7 +144,7 @@ Jump to [Faculty](#faculty), [PhD Students](#PhD Students), [Master and Bachelor
 ## Master and Bachelor Students
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.bs_ms_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
