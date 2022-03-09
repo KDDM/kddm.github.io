@@ -1,5 +1,5 @@
 - name: Xiaoqing Lu
-  photo: verdoes.jpg
+  photo: avatar.jpg
   duration: In the KDDM Lab yyyy - yyyy, now abc at the abc
   info: Visiting Professor
   email: verdoes@fmd.physics.leidenuniv.nl
@@ -10,7 +10,7 @@
   education4:
 
 - name: Xinpeng Liao
-  photo: irene.jpg
+  photo: avatar.jpg
   info: PhD Student
   duration: In the KDDM Lab yyyy - yyyy, now abc at the abc, now R&D scientist at Nearfield Instruments
   email: test@test.uab
@@ -20,7 +20,7 @@
   education3: PhD University of Alabama at Birmingham!
 
 - name: Ligaj Pradhan
-  photo: Doohee2.jpg
+  photo: avatar.jpg
   info: PhD student
   duration: In the KDDM Lab May 2017 to June 2019, Now Data Scientist at Equifax
   email: cho@physics.leidenuniv.nl
@@ -31,7 +31,7 @@
   education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
 
 - name: Song Gao
-  photo: Maarten.png
+  photo: avatar.png
   info: PhD Student, 
   email: M.Leeuwenhoek@tudelft.nl
   duration: In the KDDM Lab December 2015 to February 2020, now Software Engineer at Google
@@ -42,7 +42,7 @@
   education4:
 
 - name: Jason Britt
-  photo: Freek.jpg
+  photo: avatar.jpg
   info: PhD Student
   email: Groenewoud@physics.leidenuniv.nl
   number_educ: 2
@@ -53,7 +53,7 @@
   education4:
 
 - name: Lin Yang
-  photo: Damianos.jpg
+  photo: avatar.jpg
   info: PhD Student, started December 2017
   duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Co-Founder at Deepmap Inc
   email: chatzopoulos@Physics.LeidenUniv.nl
@@ -64,7 +64,7 @@
 
 
 - name: Ying Liu
-  photo: Damianos.jpg
+  photo: avatar.jpg
   info: PhD Student, started December 2017
   duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Senior Data Scientist at The Advisory Board Company
   email: chatzopoulos@Physics.LeidenUniv.nl
@@ -74,7 +74,7 @@
   education3:
 
 - name: Xin Chen
-  photo: Damianos.jpg
+  photo: avatar.jpg
   info: PhD Student, started December 2017
   duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Assistant Professor at Governors State University
   email: chatzopoulos@Physics.LeidenUniv.nl
@@ -84,7 +84,7 @@
   education3:
 
 - name: Pradip Chitrakar
-  photo: Damianos.jpg
+  photo: avatar.jpg
   info: MSc Student, started December 2017
   duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Associate Software Engineer at Priceline
   email: chatzopoulos@Physics.LeidenUniv.nl
@@ -95,7 +95,7 @@
 
 
 - name: Rajan Kumar Kharel
-  photo: Damianos.jpg
+  photo: avatar.jpg
   info: MSc Student, started December 2017
   duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Senior Software Engineer at BD
   email: chatzopoulos@Physics.LeidenUniv.nl
@@ -105,7 +105,7 @@
   education3:
 
 - name: Niju Shrestha
-  photo: Damianos.jpg
+  photo: avatar.jpg
   info: MSc Student, started December 2017
   duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Senior Software Engineer at IHS Markit
   email: chatzopoulos@Physics.LeidenUniv.nl
@@ -115,7 +115,7 @@
   education3:
 
 - name: Liping Zhou
-  photo: Damianos.jpg
+  photo: avatar.jpg
   info: MSc Student, started December 2017
   duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Software Engineer at Amazon
   email: chatzopoulos@Physics.LeidenUniv.nl
