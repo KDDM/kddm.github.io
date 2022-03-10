@@ -3,11 +3,13 @@ title: "KDDM Lab - Publications"
 layout: gridlay
 excerpt: "KDDM Lab -- Publications."
 sitemap: false
-# permalink: /publications/
+permalink: /publications/
 ---
 
 
 # Publications
+  <a class="twitter-timeline" data-height="100vh" href="https://twitter.com/KddmLab?ref_src=twsrc%5Etfw">Tweets by KDDM</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ## Group highlights
 
