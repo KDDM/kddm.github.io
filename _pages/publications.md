@@ -8,9 +8,7 @@ permalink: /publications/
 
 
 # Publications
-  <iframe src="https://scholar.google.com/citations?hl=en&user=TGeMLQcAAAAJ&view_op=list_works&sortby=pubdate" title="W3Schools Free Online Web Tutorials">
-</iframe>
-
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://scholar.google.com/citations?user=TGeMLQcAAAAJ&hl=en" data-iframely-url="//iframely.net/vM2UUCD"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 
 
 ## Group highlights
