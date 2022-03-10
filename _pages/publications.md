@@ -8,8 +8,17 @@ permalink: /publications/
 
 
 # Publications
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://scholar.google.com/citations?user=TGeMLQcAAAAJ&hl=en" data-iframely-url="//iframely.net/vM2UUCD"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 
+<div class="iframely-embed">
+<div class="iframely-responsive" style="height: 140px; padding-bottom: 0;">
+<a href="https://scholar.google.com/citations?user=TGeMLQcAAAAJ&hl=en" data-iframely-url="//iframely.net/vM2UUCD">
+</a>
+</div>
+</div>
+<script async src="//iframely.net/embed.js" charset="utf-8"></script>
+<br>
+<br>
+<br>
 
 ## Group highlights
 
