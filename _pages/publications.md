@@ -8,7 +8,9 @@ permalink: /publications/
 
 
 # Publications
-  <a class="twitter-timeline" data-height="100vh" href="https://twitter.com/KddmLab?ref_src=twsrc%5Etfw">Tweets by KDDM</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <iframe src="https://scholar.google.com/citations?hl=en&user=TGeMLQcAAAAJ&view_op=list_works&sortby=pubdate" title="W3Schools Free Online Web Tutorials">
+</iframe>
+
 
 
 ## Group highlights
