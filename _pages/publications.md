@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Publications"
+title: "KDDM Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "KDDM Lab -- Publications."
 sitemap: false
-permalink: /publications/
+# permalink: /publications/
 ---
 
 
