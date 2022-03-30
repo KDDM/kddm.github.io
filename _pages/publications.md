@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 # Publications
-
+Check the latest publication on <a href="https://scholar.google.com/citations?user=TGeMLQcAAAAJ&hl=en">Google Scholar</a>.
 <div class="iframely-embed">
 <div class="iframely-responsive" style="height: 140px; padding-bottom: 0;">
 <a href="https://scholar.google.com/citations?user=TGeMLQcAAAAJ&hl=en" data-iframely-url="//iframely.net/vM2UUCD">
@@ -20,7 +20,7 @@ permalink: /publications/
 <br>
 <br>
 
-## Group highlights
+<!-- ## Group highlights
 
 (For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
 
@@ -75,4 +75,4 @@ permalink: /publications/
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
-{% endfor %}
+{% endfor %} -->
