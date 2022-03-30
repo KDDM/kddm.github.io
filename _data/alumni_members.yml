@@ -18,80 +18,28 @@
   info: PhD Student
   duration: 2009-2014
 
-
-- name: Jason Britt
-  photo: avatar.jpg
-  info: PhD Student
-  duration: In the KDDM Lab 2018 - 2020, Currently Assistant Professor at Virginia State University
-
 - name: Lin Yang
   photo: avatar.jpg
-  info: PhD Student, started December 2017
-  duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Co-Founder at Deepmap Inc
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
-
-
-- name: Ying Liu
-  photo: avatar.jpg
-  info: PhD Student, started December 2017
-  duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Senior Data Scientist at The Advisory Board Company
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
+  info: PhD Student
+  duration: 2007-2011
 
 - name: Xin Chen
   photo: avatar.jpg
   info: PhD Student, started December 2017
-  duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Assistant Professor at Governors State University
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
+  duration: 2004-2008
 
 - name: Pradip Chitrakar
   photo: avatar.jpg
-  info: MSc Student, started December 2017
-  duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Associate Software Engineer at Priceline
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
-
+  info: MSc Student
 
 - name: Rajan Kumar Kharel
   photo: avatar.jpg
-  info: MSc Student, started December 2017
-  duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Senior Software Engineer at BD
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
+  info: MSc Student
 
 - name: Niju Shrestha
   photo: avatar.jpg
-  info: MSc Student, started December 2017
-  duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Senior Software Engineer at IHS Markit
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
+  info: MSc Student
 
 - name: Liping Zhou
   photo: avatar.jpg
-  info: MSc Student, started December 2017
-  duration: In the KDDM Lab Dec 2017 - Dec 2021, Currently Software Engineer at Amazon
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
+  info: MSc Student
