@@ -1,56 +1,28 @@
 - name: Xiaoqing Lu
   photo: avatar.jpg
-  duration: In the KDDM Lab yyyy - yyyy, now abc at the abc
+  duration: 
   info: Visiting Professor
-  email: verdoes@fmd.physics.leidenuniv.nl
-  number_educ: 1
-  education1: ABC Uni
-  education2:
-  education3:
-  education4:
 
 - name: Xinpeng Liao
   photo: avatar.jpg
   info: PhD Student
-  duration: In the KDDM Lab yyyy - yyyy, now abc at the abc, now R&D scientist at Nearfield Instruments
-  email: test@test.uab
-  number_educ: 3
-  education1: Master Padova University
-  education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-  education3: PhD University of Alabama at Birmingham!
+  duration: 2013 - 2019
 
 - name: Ligaj Pradhan
   photo: avatar.jpg
   info: PhD student
-  duration: In the KDDM Lab May 2017 to June 2019, Now Data Scientist at Equifax
-  email: cho@physics.leidenuniv.nl
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
+  duration: 2012-2017
 
 - name: Song Gao
   photo: avatar.jpg
   info: PhD Student
-  email: M.Leeuwenhoek@tudelft.nl
-  duration: In the KDDM Lab December 2015 to February 2020, now Software Engineer at Google
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
-  education2:
-  education3:
-  education4:
+  duration: 2009-2014
+
 
 - name: Jason Britt
   photo: avatar.jpg
   info: PhD Student
-  email: Groenewoud@physics.leidenuniv.nl
-  number_educ: 2
   duration: In the KDDM Lab 2018 - 2020, Currently Assistant Professor at Virginia State University
-  education1: Leidse Instrumentmaker School
-  education2: Mechanical Engineer , Hogeschool  Delft
-  education3:
-  education4:
 
 - name: Lin Yang
   photo: avatar.jpg
