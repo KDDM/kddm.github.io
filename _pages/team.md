@@ -138,7 +138,7 @@ permalink: /team/
 
 
 
-## Master and Bachelor Students
+<!-- ## Master and Bachelor Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.bs_ms_members %}
@@ -169,7 +169,7 @@ permalink: /team/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 ## Former Students and Visitors
 
