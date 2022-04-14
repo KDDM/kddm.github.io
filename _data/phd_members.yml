@@ -22,11 +22,12 @@
   education2: BSc, Computer Science & Engineering, Daffodil International University
 
 - name: Anuradha Mandal
-  photo: psaha.jpeg
-  info: PhD Student "(co-advised with <a href="https://engineering.tamu.edu/cse/profiles/Saxena-Nitesh.html" target="_blank" rel="noopener noreferrer">Dr. Nitesh Saxena</a> at TAMU)"
+  photo: avatar.jpg
+  info: PhD Student 
   email: anuradha@uab.edu
-  number_educ: 1
+  number_educ: 2
   education1: PhD Student, Computer Science, Univeristy of Alabama at Birmingham
+  education2: (co-advised with <a href="https://engineering.tamu.edu/cse/profiles/Saxena-Nitesh.html" target="_blank" rel="noopener noreferrer">Dr. Nitesh Saxena</a> at TAMU)
   
 - name: "This could be you !"
   photo: rock.jpg
