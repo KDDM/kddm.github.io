@@ -15,13 +15,13 @@
 
 - name: Pratim Saha
   photo: psaha.jpeg
-  info: PhD Student, started Sep 2021 :)
+  info: PhD Student, started Sep 2021
   email: psaha@uab.edu
   number_educ: 2
   education1: PhD Student, Computer Science, Univeristy of Alabama at Birmingham
   education2: BSc, Computer Science & Engineering, Daffodil International University
 
-  - name: "This could be you !"
+- name: "This could be you !"
   photo: rock.jpg
   info: See <a href="">openings</a> for more info
   email: none@gmail.com
