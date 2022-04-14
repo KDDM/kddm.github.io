@@ -30,3 +30,13 @@
   education2:
   education3:
   education4:
+
+  - name: "This could be you 2!"
+  photo: rock.jpg
+  info: See <a href="">openings</a> for more info
+  email: none@gmail.com
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
