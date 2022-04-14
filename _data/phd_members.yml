@@ -21,6 +21,13 @@
   education1: PhD Student, Computer Science, Univeristy of Alabama at Birmingham
   education2: BSc, Computer Science & Engineering, Daffodil International University
 
+  - name: Anuradha Mandal
+  photo: avatar.jpg
+  info: PhD Student, (co-advised with Dr. Nitesh Saxena at TAMU)
+  email: anuradha@uab.edu
+  number_educ: 2
+  education1: PhD Student, Computer Science, Univeristy of Alabama at Birmingham
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="">openings</a> for more info
