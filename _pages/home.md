@@ -77,7 +77,7 @@ Our current research activities focus on the following areas:
 We have applied research to several domains, with close collaboration with cyber-security specialists, colleagues in Physical Medicine & Rehabilitation, School of Medicine, School of Public Health, Government, as well as with industrial collaborators such as IBM and eBay. The methods and tools have so far been applied to healthcare applications (e.g., body fat percentage estimation from 2D photos,) video surveillance applications, image analysis and retrieval (e.g., image classification and generation, object detection and tracking, image spam mining, and paper ballot tabulation), identification of events of interest from videos, bio-medical image/video mining (e.g., histological image analysis for skin cancer screening), and email spam and phishing kit data mining. More recently, our research areas have been expanded to include social science applications and biomedical text mining. Some highlight systems include <a href="https://www.youtube.com/watch?v=JXQn1Om26hU&list=PL6gkUtSs5Z5LWq-oAAPR8BBGncwIG3pR0&index=1">photobody</a>, analysis of organizational patterns of lobbying activities, and automatic extraction of gene co-expression hypotheses from published biomedical literature. Our research has been funded by NSF and NIH.
 </div>
 
-<figure class="fourth">
+<!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uab.png" style="width: 210px">
    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cis.png" style="width: 210px">
-</figure>
+</figure> -->
