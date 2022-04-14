@@ -31,7 +31,7 @@
 - name: "This could be you !"
   photo: rock.jpg
   info: <a href="mailto:czhang02@uab.edu">Email</a> for more info
-  # email: none@gmail.com
+  email: 
   number_educ: 0
   education1:
   education2:
