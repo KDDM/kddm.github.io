@@ -21,17 +21,17 @@
   education1: PhD Student, Computer Science, Univeristy of Alabama at Birmingham
   education2: BSc, Computer Science & Engineering, Daffodil International University
 
-- name: "This could be you !"
+- name: Anuradha Mandal
   photo: rock.jpg
-  info: See <a href="">openings</a> for more info
-  email: none@gmail.com
-  number_educ: 0
-  education1:
+  info: PhD Student, started Sep 2021
+  email: anuradha@uab.edu
+  number_educ: 1
+  education1: PhD Student, Computer Science, Univeristy of Alabama at Birmingham
   education2:
   education3:
   education4:
 
-  - name: "This could be you 2!"
+  - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="">openings</a> for more info
   email: none@gmail.com
