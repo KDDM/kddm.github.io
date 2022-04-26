@@ -19,6 +19,7 @@ During Fall 2004, the Knowledge Discovery and Data Mining Research Lab (KDDM) at
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
     </ol>
 
     <!-- Items -->
